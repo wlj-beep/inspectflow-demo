@@ -1,7 +1,7 @@
 # InspectFlow Demo
 
 ## Project Overview
-InspectFlow Demo is a powerful tool designed to provide users with an interactive inspection and workflow management system. It enables users to visualize their workflows, manage data inputs, and streamline processes effectively. This project showcases modern web technologies and demonstrates best practices in web development.
+InspectFlow Demo is a powerful tool designed to provide users with an interactive inspection and workflow management system. It enables users to visualize their workflows, manage data inputs, and streamline processes effectively. This project showcases modern web technologies and demonstrates best practices in web development..
 
 ## Features
 - **Interactive Workflow Management:** Users can create, modify, and visualize workflows in real-time.
